@@ -1,4 +1,4 @@
-let users = [
+export let user = [
 
     // SE MUESTRA INFORMACIÓN DE USUARIOS
 
